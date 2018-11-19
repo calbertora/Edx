@@ -1,0 +1,38 @@
+body {
+   margin: auto;
+   width: 70%;
+   background-color: #2D4471;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #19063A;
+}
+
+section {
+   background-color: #7587AA;
+}
+
+header {
+   background-color: #FFFDFA;
+   width: auto;
+   height: 3.7em;
+   padding: 10px 20px;
+   margin-top: 30px;
+   min-width: 600px;
+}
+
+header h1 {
+   float: left;
+   width: 60%;  
+   margin: 0; 
+   height: auto;
+}
+
+header p {
+   float: right;
+   display: block;
+   width: 40%;
+   margin: 0;
+}
+
+span {
+   color: #AA8339;
+}
